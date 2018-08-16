@@ -6,6 +6,11 @@ Hadoop 2.X - http://hadoop.apache.org/common/releases.html (You can run Pig with
 
 Java 1.7 - http://java.sun.com/javase/downloads/index.jsp (set JAVA_HOME to the root of your Java installation)
 
+# Preparing
+
+'gem install bundler'
+'bundle install'
+
 # Running pig script
 
 In order to run pig script: `pig -x local graphql_script.pig`

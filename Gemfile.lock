@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    graphql (1.8.7)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  graphql
+
+BUNDLED WITH
+   1.16.3
